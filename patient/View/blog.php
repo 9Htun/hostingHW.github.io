@@ -36,7 +36,7 @@ if (!isset($_SESSION["email"])) {
         <div class="first_aid_card my-4">
             <div class="wrapper">
                 <div class="me-3">
-                <img src="./storages/blog/<?php echo $blog["image"] ?>" alt="" class="card_img" />
+                <img src="../../admin/View/storages/blog/<?php echo $blog["image"] ?>" alt="" class="card_img" />
                 </div>
                 <div class="info">
                     <h2 class="first_aid_para_header"><?php echo $blog["header"] ?></h2>
