@@ -45,22 +45,22 @@ if (!isset($_SESSION["email"])) {
                 <ul class="splide__list">
                     <li class="splide__slide">
                         <div class="first_slide_div">
-                            <img src="./storages/image/<?=$carouselInfo[0]["caroussel_image"]?>" alt="" class="first_slide_img" />
+                            <img src="../../admin/View/storages/image/<?=$carouselInfo[0]["caroussel_image"]?>" alt="" class="first_slide_img" />
                         </div>
                     </li>
                     <li class="splide__slide">
                         <div class="first_slide_div">
-                            <img src="./storages/image/<?=$carouselInfo[0]["caroussel_image_2"]?>" alt="" class="first_slide_img" />
+                            <img src="../../admin/View/storages/image/<?=$carouselInfo[0]["caroussel_image_2"]?>" alt="" class="first_slide_img" />
                         </div>
                     </li>
                     <li class="splide__slide">
                         <div class="first_slide_div">
-                            <img src="./storages/image/<?=$carouselInfo[0]["caroussel_image_3"]?>" alt="" class="first_slide_img" />
+                            <img src="../../admin/View/storages/image/<?=$carouselInfo[0]["caroussel_image_3"]?>" alt="" class="first_slide_img" />
                         </div>
                     </li>
                     <li class="splide__slide">
                         <div class="first_slide_div">
-                            <img src="./storages/image/<?=$carouselInfo[0]["caroussel_image_4"]?>" alt="" class="first_slide_img" />
+                            <img src="../../admin/View/storages/image/<?=$carouselInfo[0]["caroussel_image_4"]?>" alt="" class="first_slide_img" />
                         </div>
                     </li>
 
