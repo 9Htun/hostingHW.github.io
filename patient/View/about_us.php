@@ -58,7 +58,7 @@ if (!isset($_SESSION["email"])) {
                     <p class="first_aid_para"><?= $info["text2"] ?></p>
                     </ol>
                 </div>
-                <img src="./storages/about/<?= $info["image2"] ?>" alt="" class="" />
+                <img src="../../admin/View/storages/about/<?= $info["image2"] ?>" alt="" class="" />
 
             </div>
         </div>
